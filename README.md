@@ -58,7 +58,7 @@ Sistema completo para gestão e auditoria do programa 5S, desenvolvido com Flask
 ![Avaliações](docs/Exemplo_avaliações_auditor.png)
 
 ### Ranking / Resultado
-![Resultado](docs/Resultado_avaliação_auditores.png)
+![Resultado](docs/ranking_completo.png)
 
 
 
