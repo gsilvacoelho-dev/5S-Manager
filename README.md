@@ -37,6 +37,26 @@ Sistema completo para gestão e auditoria do programa 5S, desenvolvido com Flask
 - **JavaScript**: Vanilla JS (ES6+)
 - **Design**: Responsivo e moderno
 
+## 📷 Demonstração
+
+### Dashboard Administrativo
+![Dashboard Admin](docs/Dashboard_admin.png)
+
+### Dashboard do Auditor
+![Dashboard Auditor](docs/Dashboard_auditor.png)
+
+### Cadastro e Sorteio de Áreas
+![Cadastro Áreas](docs/Cadastro_areas_e_sorteio.png)
+
+### Avaliações
+![Avaliações](docs/Exemplo_avaliações_auditor.png)
+
+### Ranking / Resultado
+![Resultado](docs/Resultado_avaliação_auditores.png)
+
+
+
+
 ### Estrutura do Projeto
 ```
 5smanager/
