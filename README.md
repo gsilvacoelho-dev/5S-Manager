@@ -56,7 +56,6 @@ Sistema completo para gestão e auditoria do programa 5S, desenvolvido com Flask
 │   ├── database/
 │   │   └── app.db           # Banco de dados SQLite
 │   └── main.py              # Arquivo principal da aplicação
-├── venv/                    # Ambiente virtual Python
 ├── requirements.txt         # Dependências do projeto
 └── README.md               # Documentação
 ```
