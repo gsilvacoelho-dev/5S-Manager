@@ -39,6 +39,9 @@ Sistema completo para gestão e auditoria do programa 5S, desenvolvido com Flask
 
 ## 📷 Demonstração
 
+### Home
+![Dashboard Admin](docs/Telainicial.png)
+
 ### Dashboard Administrativo
 ![Dashboard Admin](docs/Dashboard_admin.png)
 
